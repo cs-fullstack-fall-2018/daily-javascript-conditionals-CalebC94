@@ -18,3 +18,5 @@ C. ```if (length! = 75) { // Some block of code to execute }```
 D. ```if (length == "75") { // Some block of code to execute }```
 
 The answer is B
+
+<!-- Not quite. It's B and C -->
